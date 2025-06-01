@@ -30,7 +30,7 @@ This project showcases beautiful destinations, adventure ideas, and packages for
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure*******
 
 ```
 
